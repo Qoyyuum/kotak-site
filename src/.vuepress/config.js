@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Kotak - Shopify But Free',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -38,13 +38,17 @@ module.exports = {
         link: '/guide/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'FAQ',
+        link: '/faq/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
+        text: 'Follow Us on Instagram',
+        link: 'https://instagram.com/kotaknetwork'
+      },
+      {
+        text: 'Like Us on Facebook',
+        link: 'https://facebook.com/kotaknetworkofficial'
+      },
     ],
     sidebar: {
       '/guide/': [
@@ -53,7 +57,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'add-to-cart',
           ]
         }
       ],
