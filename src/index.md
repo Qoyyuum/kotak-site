@@ -1,15 +1,15 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: A landing page for Kotak - Free-ish E-Commerce Site
+tagline: Shopify but FREE
 actionText: Quick Start →
 actionLink: /guide/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+- title: It's FREE
+  details: Did we mention its free to use?
+- title: Your own e-Commerce site
+  details: As a seller, you should own your data, customers, orders and be able to offer more convenience to your customers
+- title: Unlimited Product Uploads
+  details: Display all of your products, prices, pictures, videos, descriptions, variants, etc as much as you want.
 footer: Made by Abdul Qoyyuum with ❤️
 ---
