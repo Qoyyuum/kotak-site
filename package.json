@@ -1,0 +1,19 @@
+{
+  "name": "kotaklanding",
+  "version": "0.0.1",
+  "description": "A landing page for Kotak - Free-ish E-Commerce Site",
+  "main": "index.js",
+  "authors": {
+    "name": "Abdul Qoyyuum",
+    "email": "qoyyuum@duck.com"
+  },
+  "repository": "kotaklanding/kotaklanding",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
