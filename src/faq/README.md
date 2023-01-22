@@ -14,6 +14,12 @@ Kotak service doesn't limit them from using social media to reach out to more cu
 
 But this does help the sellers to avoid their products being flooded on social media.
 
+E.g. seller posted a product about selling headscarves or stylish clothing on a Facebook buy/sell group. Before that post, a different seller is selling some enlargement product. After that post, another seller puts some low-effort advertisement to do various service with many typos like
+
+> "potung pokok, bikin umah, pagar bikin contact: +673**"
+
+While some sellers prefer the "DM for price" approach, I, personally, as an online consumer, prefer that the price is displayed publicly (unless it is a member only price), then I would not have to ask for it.
+
 ## Why not use Shopify?
 
 Very costly to pay USD20 or so for a shopping site that doesn't allow or provide a way for Bruneians to collect online payments. The closest that Shopify can offer is to have Bruneians sign up for a crypto wallet service to collect payment like BitPay or Coinbase or something. And if Bruneians don't know how to withdraw those collected payments in their crypto wallets, it's stuck.
