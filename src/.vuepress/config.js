@@ -27,11 +27,17 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
-    editLinks: false,
-    docsDir: '',
-    editLinkText: '',
-    lastUpdated: false,
+    repo: 'https://github.com/Qoyyuum/kotak-site',
+    repoLabel: "Contribute!",
+    docsDir: 'src',
+    //editLinks: true,
+    //editLinkText: 'Help us improve this page!',
+    lastUpdated: "Last Updated",
+    nextLinks: true,
+    prevLinks: true,
+    search: true,
+    searchMaxSuggestions: 10,
+    searchPlaceholder: "Search...",
     nav: [
       {
         text: 'Guide',
